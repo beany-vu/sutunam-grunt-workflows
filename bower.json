@@ -1,0 +1,24 @@
+{
+  "name": "sutugrunt",
+  "description": "This is the scaffold for frontend developer in Sutunam to build their own development evironment with various type of projects.",
+  "main": "index.js",
+  "authors": [
+    "Beany"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "sutunam",
+    "grunt",
+    "scaffold",
+    "frontend",
+    "environtment"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
