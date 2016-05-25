@@ -1,0 +1,29 @@
+{
+  "name": "sutugrunt",
+  "version": "1.0.0",
+  "description": "This is the scaffold for frontend developer in Sutunam to build their own development evironment with various type of projects.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^6.3.6",
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-postcss": "^0.8.0",
+    "grunt-wiredep": "^3.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sutunam",
+    "grunt",
+    "scaffold",
+    "frontend",
+    "environtment"
+  ],
+  "author": "Beany",
+  "license": "ISC"
+}
