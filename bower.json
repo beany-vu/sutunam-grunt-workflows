@@ -1,5 +1,5 @@
 {
-  "name": "sutugrunt",
+  "name": "sutunam-grunt-workflows",
   "description": "This is the scaffold for frontend developer in Sutunam to build their own development evironment with various type of projects.",
   "main": "index.js",
   "authors": [
@@ -20,5 +20,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "devDependencies": {
+    "compass-sass-mixins": "*"
+  }
 }

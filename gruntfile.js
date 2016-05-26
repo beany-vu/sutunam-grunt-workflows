@@ -32,7 +32,7 @@ module.exports = function(grunt) {
     }); //end initConfig
 
     // tasks declaration
-    grunt.loadNpmTasks('grunt-contrib-sass');
+    grunt.loadNpmTasks('grunt-sass');
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-postcss');
     grunt.registerTask('default',['watch']);
